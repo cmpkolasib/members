@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "removeName": "Pem",
+        "removeValue": "pem"
+    },
+    {
+        "id": 2,
+        "removeName": "Fam",
+        "removeValue": "famchang"
+    },
+    {
+        "id": 3,
+        "removeName": "Pasal nei",
+        "removeValue": "pasalnei"
+    },
+    {
+        "id": 4,
+        "removeName": "Kohhran Chhuahsan",
+        "removeValue": "chhuahsan"
+    }
+]

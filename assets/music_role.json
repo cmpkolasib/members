@@ -1,0 +1,22 @@
+[
+{
+	"id": 1,
+	"roleName": "Khuang Pu",
+	"roleValue": "khuang"
+},
+{
+	"id": 2,
+	"roleName": "Keyboard",
+	"roleValue": "keyboard"
+},
+{
+	"id": 3,
+	"roleName": "Sound Duty",
+	"roleValue": "soundduty"
+},
+{
+	"id": 4,
+	"roleName": "Display Duty",
+	"roleValue": "displayduty"
+}
+]
