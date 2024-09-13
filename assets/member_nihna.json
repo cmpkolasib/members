@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "roleName": "President",
+        "roleValue": "President"
+    },
+    {
+        "id": 2,
+        "roleName": "Vice President",
+        "roleValue": "Vice President"
+    },
+    {
+        "id": 3,
+        "roleName": "Secretary",
+        "roleValue": "Secretary"
+    },
+    {
+        "id": 4,
+        "roleName": "Asst. Secretary",
+        "roleValue": "Asst. Secretary"
+    },
+    {
+        "id": 5,
+        "roleName": "Treasurer",
+        "roleValue": "Treasurer"
+    },
+    {
+        "id": 6,
+        "roleName": "Fin. Secretary",
+        "roleValue": "Fin. Secretary"
+    },
+    {
+        "id": 7,
+        "roleName": "Adviser",
+        "roleValue": "Adviser"
+    },
+    {
+        "id": 8,
+        "roleName": "Comm. Member",
+        "roleValue": "Comm. Member"
+    },
+    {
+        "id": 9,
+        "roleName": "Member",
+        "roleValue": "Member"
+    },
+    {
+        "id": 10,
+        "roleName": "Joint Secretary",
+        "roleValue": "Joint Secretary"
+    }
+    ]

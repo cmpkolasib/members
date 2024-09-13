@@ -1,0 +1,162 @@
+{
+    "ckc": [
+        {
+            "id": 1,
+            "roleName": "Leader",
+            "roleValue": "leader"
+        },
+        {
+            "id": 2,
+            "roleName": "Asst Leader",
+            "roleValue": "asstleader"
+        },
+        {
+            "id": 3,
+            "roleName": "Secretary",
+            "roleValue": "secretary"
+        },
+        {
+            "id": 4,
+            "roleName": "Asst Secretary",
+            "roleValue": "asstsecretary"
+        },
+        {
+            "id": 5,
+            "roleName": "Treasurer",
+            "roleValue": "treasurer"
+        },
+        {
+            "id": 6,
+            "roleName": "Fin. Secretary",
+            "roleValue": "finsecretary"
+        }
+    ],
+    "cmp": [
+        {
+            "id": 1,
+            "roleName": "President",
+            "roleValue": "president"
+        },
+        {
+            "id": 2,
+            "roleName": "Vice President",
+            "roleValue": "vicepresident"
+        },
+        {
+            "id": 3,
+            "roleName": "Secretary",
+            "roleValue": "secretary"
+        },
+        {
+            "id": 4,
+            "roleName": "Asst Secretary",
+            "roleValue": "asstsecretary"
+        },
+        {
+            "id": 5,
+            "roleName": "Treasurer",
+            "roleValue": "treasurer"
+        },
+        {
+            "id": 6,
+            "roleName": "Fin. Secretary",
+            "roleValue": "finsecretary"
+        }
+    ],
+    "chp": [
+        {
+            "id": 1,
+            "roleName": "President",
+            "roleValue": "president"
+        },
+        {
+            "id": 2,
+            "roleName": "Vice President",
+            "roleValue": "vicepresident"
+        },
+        {
+            "id": 3,
+            "roleName": "Secretary",
+            "roleValue": "secretary"
+        },
+        {
+            "id": 4,
+            "roleName": "Asst Secretary",
+            "roleValue": "asstsecretary"
+        },
+        {
+            "id": 5,
+            "roleName": "Treasurer",
+            "roleValue": "treasurer"
+        },
+        {
+            "id": 6,
+            "roleName": "Fin. Secretary",
+            "roleValue": "finsecretary"
+        }
+    ],
+    "ctp": [
+        {
+            "id": 1,
+            "roleName": "President",
+            "roleValue": "president"
+        },
+        {
+            "id": 2,
+            "roleName": "Vice President",
+            "roleValue": "vicepresident"
+        },
+        {
+            "id": 3,
+            "roleName": "Secretary",
+            "roleValue": "secretary"
+        },
+        {
+            "id": 4,
+            "roleName": "Asst Secretary",
+            "roleValue": "asstsecretary"
+        },
+        {
+            "id": 5,
+            "roleName": "Treasurer",
+            "roleValue": "treasurer"
+        },
+        {
+            "id": 6,
+            "roleName": "Fin. Secretary",
+            "roleValue": "finsecretary"
+        }
+    ],
+    "koc": [
+        {
+            "id": 1,
+            "roleName": "Chairman",
+            "roleValue": "chairman"
+        },
+        {
+            "id": 2,
+            "roleName": "Vice Chairman",
+            "roleValue": "vicechairman"
+        },
+        {
+            "id": 3,
+            "roleName": "Secretary",
+            "roleValue": "secretary"
+        },
+        {
+            "id": 4,
+            "roleName": "Joint Secretary",
+            "roleValue": "jointsecretary"
+        },
+        {
+            "id": 5,
+            "roleName": "Treasurer",
+            "roleValue": "treasurer"
+        },
+        {
+            "id": 6,
+            "roleName": "Fin. Secretary",
+            "roleValue": "finsecretary"
+        }
+    ]
+}

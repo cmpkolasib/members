@@ -1,0 +1,67 @@
+[
+	{
+		"id": 1,
+		"relName": "Nu",
+		"relValue": "Nu"
+	},
+	{
+		"id": 2,
+		"relName": "Nupui",
+		"relValue": "Nupui"
+	},
+	{
+		"id": 3,
+		"relName": "Fapa",
+		"relValue": "Fapa"
+	},
+	{
+		"id": 4,
+		"relName": "Fanu",
+		"relValue": "Fanu"
+	},
+	{
+		"id": 5,
+		"relName": "Tupa",
+		"relValue": "Tupa"
+	},
+	{
+		"id": 6,
+		"relName": "Tunu",
+		"relValue": "Tunu"
+	},
+	{
+		"id": 7,
+		"relName": "Unau",
+		"relValue": "Unau"
+	},
+	{
+		"id": 8,
+		"relName": "Farnu",
+		"relValue": "Farnu"
+	},
+	{
+		"id": 9,
+		"relName": "Makpa",
+		"relValue": "Makpa"
+	},
+	{
+		"id": 10,
+		"relName": "Vah",
+		"relValue": "Vah"
+	},
+	{
+		"id": 11,
+		"relName": "Brother in law",
+		"relValue": "b-in-law"
+	},
+	{
+		"id": 12,
+		"relName": "Sister in law",
+		"relValue": "s-in-law"
+	},
+	{
+		"id": 13,
+		"relName": "Others",
+		"relValue": "others"
+	}
+]

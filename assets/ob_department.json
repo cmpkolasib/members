@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "deptName": "Catholic Kohhran Committee",
+        "deptValue": "ckc"
+    },
+    {
+        "id": 2,
+        "deptName": "Catholic Mipa Pawl",
+        "deptValue": "cmp"
+    },
+    {
+        "id": 3,
+        "deptName": "Catholic Hmeichhe Pawl",
+        "deptValue": "chp"
+    },
+    {
+        "id": 4,
+        "deptName": "Catholic Thalai Pawl",
+        "deptValue": "ctp"
+    },
+    {
+        "id": 5,
+        "deptName": "Khawmpui Organizing Committee",
+        "deptValue": "koc"
+    }
+]
