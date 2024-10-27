@@ -29,6 +29,11 @@
             "id": 6,
             "roleName": "Fin. Secretary",
             "roleValue": "finsecretary"
+        },
+        {
+            "id": 7,
+            "roleName": "Parish Priest"
+            "roleValue": "pp"
         }
     ],
     "cmp": [
